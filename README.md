@@ -30,6 +30,9 @@ I would also like to cross reference the sentiment classifications with stock pr
 # Conclusion
 
 This was an interesting challenge. It is fascinating that a computer model can read human language and be able to assign a sentiment to it. An example would be reading amazon reviews and classifying them for research purposes. While this model needs work to make it more accurate, it is possible to have the machine become more accurate in its reading. This artificial intelligence helps to connect man and machine even more naturally. As voice recognition software becomes more common so will the application of natural language processing. I look forward to seeing the possibilities.
+Actionable Recommendations:
+1. Sentiment Analysis allows for correlation analysis with stock prices and can also be used to see how customers feel about a product.
+2. 
 
 
 ## Refrences:
